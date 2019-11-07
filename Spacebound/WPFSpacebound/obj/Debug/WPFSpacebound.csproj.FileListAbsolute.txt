@@ -1,0 +1,16 @@
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\bin\Debug\WPFSpacebound.exe.config
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\bin\Debug\WPFSpacebound.exe
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\bin\Debug\WPFSpacebound.pdb
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.csprojAssemblyReference.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\MainWindow.g.cs
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\App.g.cs
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound_MarkupCompile.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound_MarkupCompile.lref
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\MainWindow.baml
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.g.resources
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.Properties.Resources.resources
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.csproj.GenerateResource.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.exe
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\WPFSpacebound.pdb
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\Window1.g.cs
+C:\Users\Dilan Patel\Engineering45\Week3\Day2\Homework\Spacebound\WPFSpacebound\obj\Debug\Window1.baml
